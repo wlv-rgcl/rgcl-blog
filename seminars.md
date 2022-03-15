@@ -105,7 +105,7 @@ nav-menu: true
 					<h3>Digital Humanities</h3>
 				</header>
         <p>
-        <u>Seminar Lead</u>: Dr Tharindu Ranasinghe
+        <u>Seminar Lead</u>: Dr Tharindu Ranasinghe &amp; Dr Emma Franklin
         </p>
         <p>
         Digital Humanities, aka Cultural Analytics, is the computational study of the Humanities in a way that advanced Humanities research in such disciplines as history, literature, film, and geography.
