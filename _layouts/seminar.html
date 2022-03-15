@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %} 
+    
+    
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>&quot;{{ page.title }}&quot;</h1>
+      <h2>by {{ page.speaker }}{% if page.affiliation and page.affiliation != "" %}, {{ page.affiliation }}{% endif %}</h2>
+		</header>
+
+    {% assign site_time = site.time | date: '%s' %}
+    {% assign page_time = page.date | date: '%s' %}
+      
+    {% if page_time < site_time %}
+      <u>Update</u>: the event has now finished ({{ page.date | date: "%b, %-d %Y" }}).
+    {% else %} 
+      <h3> The talk will be on {{ page.date | date: "%b, %-d %Y" }} {%if page.time %} at {{ page.time }} (UK time).{% else %}<i>(time to be confirmed).</i>{% endif %}</h3>
+    {% endif %}
+
+		{% if page.image %}<span class="image main"><img src="{{ site.baseurl | relative_url }}/{{ page.image }}" alt="" /></span>{% endif %}
+    <p>{{ content }}</p>
+
+    {% if page_time >= site_time %}
+    <b><i>If you would like to be sent the meeting link, please contact&nbsp;<a href="mailto:a.harper2@wlv.ac.uk">April Harper</a>.</i></b>
+    {% endif %}
+	</div>
+</section>
+
+</div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

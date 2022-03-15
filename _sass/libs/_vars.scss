@@ -30,18 +30,48 @@
 
 // Palette.
 	$palette: (
-		bg:					#242943,
+		// bg:					#242943,
+		bg:					#192d45,
 		bg-alt:				#2a2f4a,
 		fg:					#ffffff,
 		fg-bold:			#ffffff,
 		fg-light:			rgba(244,244,255,0.2),
 		border:				rgba(212,212,255,0.1),
 		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
-		accent1:			#6fc3df,
-		accent2:			#8d82c4,
-		accent3:			#ec8d81,
-		accent4:			#e7b788,
-		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		// highlight:			#9bf1ff,
+		highlight:			#FAC817,
+		// accent1:			#6fc3df,
+		// accent2:			#8d82c4,
+		// accent3:			#ec8d81,
+		// accent4:			#e7b788,
+		// accent5:			#8ea9e8,
+		// accent6:			#87c5a4
+
+    // dark yellow => #FAC817
+    // light yellow => #F7F61B
+    // dark blue => #4D5168
+    // light blue => #ACBCCE
+    // light blue++ => #4DBDD7
+    // red/pink => #F5357F
+    // dark green => #59B985
+    // light green => #A8D846
+    // dark grey => #808080
+    // light grey => #CCCCCC
+    uwolv-dark-yellow: #FAC817,
+    uwolv-light-yellow: #F7F61B,
+    uwolv-dark-blue: #4D5168,
+    uwolv-light-blue: #ACBCCE,
+    uwolv-cyan: #4DBDD7,
+    uwolv-red-pink: #F5357F,
+    uwolv-dark-green: #59B985,
+    uwolv-light-green: #A8D846,
+    uwolv-dark-grey: #808080,
+    uwolv-light-grey: #CCCCCC,
+
+		accent1:			#FAC817,
+		accent2:			#4DBDD7,
+		accent3:			#F5357F,
+		accent4:			#A8D846,
+		accent5:			#808080,
+		accent6:			#4DBDD7,
 	);

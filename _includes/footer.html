@@ -1,46 +1,42 @@
 <!-- Contact -->
 <section id="contact">
 	<div class="inner">
-		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
-				<div class="field half first">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				<div class="field half">
-					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
-				</div>
-				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
-				</ul>
-			</form>
-		</section>
-		<section class="split">
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
-				</div>
-			</section>
-			<section>
+    <section>
+    <h2>CONTACT DETAILS</h2>
+        <hr />
+      <section>
+        <div class="contact-method">
+          <span class="icon alt fa-envelope"></span>
+          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </div>
+      </section>
+      <section>
+        <div class="contact-method">
+          <span class="icon alt fa-phone"></span>
+          <a href="tel:{{ site.phone }}">{{ site.phone }}</a>
+        </div>
+      </section>
+      <section>
+        <ul class="icons">
+          {% for key_value in site.socials %}
+          {% if key_value[1] %}
+          <li>
+            <a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+              <span class="label">{{ key_value[0] }}</span>
+            </a>
+          </li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </section>
+    </section>
+    <section class="split">
+      <section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
 					<span>
+          {{ site.author }}<br />
+          {{ site.university }}<br /> 
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
 					{% endif %}
@@ -54,34 +50,24 @@
 					    {{ site.zip_code }}<br />
 					{% endif %}
 					{% if site.country %}
-					    {{ site.country }}
+					    {{ site.country }}<br />
 					{% endif %}
-					</span>
-				</div>
-			</section>
+          <br />
+          </span>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2423.9801134139952!2d-2.1296718838718376!3d52.588052779827144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487083cb0f37dc97%3A0x9cb8e3cc0509a0d0!2sUniversity%20of%20Wolverhampton!5e0!3m2!1sen!2suk!4v1642496540211!5m2!1sen!2suk" width="300" height="260" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+      </section>
 		</section>
 	</div>
 </section>
 
 <!-- Footer -->
 	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
-				{% for key_value in site.socials %}
-					{% if key_value[1] %}
-						<li>
-							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-								<span class="label">{{ key_value[0] }}</span>
-							</a>
-						</li>
-					{% endif %}
-				{% endfor %}
-			</ul>
+		<div class="contact-method">
 			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+        <li>&copy; <script>document.write(new Date().getFullYear())</script> {{ site.author }} | {{ site.subtitle }}</li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
-
+				<!-- <li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li> -->
 			</ul>
 		</div>
 	</footer>

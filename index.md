@@ -1,11 +1,13 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Research Group in Computational Linguistics'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+<p><span class="image right"><img src="{% link assets/images/uwolv-rgcl-logo.png %}" alt="RGCL logo" /></span>
+<b>The Research Group in Computational Linguistics (RGCL) is an internationally recognised and leading centre in Natural Language Processing.</b> It was founded by Prof. Ruslan Mitkov in 1998 and is one of the leading research institutes in the UK. The group is well known for its high-level research with strong international and inter-sector collaboration, and is renowned for its innovative Natural Language Processing (NLP) research and development of various NLP tools and resources.
+</p>

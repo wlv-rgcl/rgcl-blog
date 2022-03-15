@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %} 
+
+    <section id="banner" class="style1">
+      <div class="inner">
+        <span class="image">
+          <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+        </span>
+        <header class="major">
+
+          <h1>{{ page.title }}</h1>
+          <h3>{{ page.description }}</h3>
+
+        </header>
+      </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main" class="alt">
+
+      <!-- One -->
+      <section id="one">
+        <div class="inner">
+          {% assign all_reversed_news = site.news | reverse %}
+          {% assign counter = 0 %}
+          {% for news in all_reversed_news %} 
+          {% if counter < site.news-count %}
+          <!-- On {{ news.date | date: "%b, %-d %Y" }} -- <i>by {{ news.author }}</i> -->
+          On {{ news.date | date: "%b, %-d %Y" }}
+          <h3><a href="{{ news.url  | relative_url }}" class="link">{{ news.title }}</a></h3>
+          <!-- {% if news.slug %}<p>{% if news.image %}<span class="image fit right"><img src="{{ site.baseurl }}/rgcl_content/images/{{ news.image }}" alt="" /></span>{% endif %}{{ news.slug }}</p>{% endif%} -->
+          {% if news.slug and news.slug != "" %}<p>{{ news.slug }}</p>{% endif%}
+          <a href="{{ news.url | relative_url }}" class="button small">Read more</a>
+          <hr class="major" />
+          {% assign counter = counter | plus: 1 %}
+          {% endif %}
+          {% endfor %}
+          <a href="{{ site.url | relative_url }}/news_all" class="button special fit small">Read older news</a>
+        </div>
+      </section>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

@@ -1,38 +1,66 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: RGCL's blog
+subtitle: University of Wolverhampton 
+email: riilp@wlv.ac.uk
+description: Blog of the Research Group in Computational Linguistics <br />at the University of Wolverhampton
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: RGCL
+university: University of Wolverhampton 
+room_address: MC135 
+building_address: Millenium City Building
+street_address: Wulfruna Street
+city: Wolverhampton 
+state: 
+zip_code: WV1 1LY
+country: United Kingdom 
+phone: +44 1902 321630 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
+
+# Limit to latest news (e.g. 5 = only 5 latest ones)
+news-count: 5
+
+defaults:
+  - scope:
+      path: "rgcl_content/images"
+    values:
+      image: true
+  - scope:
+      path: ""
+    values:
+      author: "RGCL"
+
+future: true
+
+collections_dir: rgcl_content
+collections:
+  news:
+    output: true
+  seminars:
+    output: true
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  Twitter: https://twitter.com/RGCL_WLV
+  GitHub: https://github.com/wlv-rgcl
+  Facebook: https://www.facebook.com/riilp.Wolverhampton
+  Instagram: https://www.instagram.com/wlvuni
+  rss: /feeds/news.atom
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
+  Google-Plus: 
+  LinkedIn: 
   Slack:
 
 # build settings
 markdown: kramdown
+
+permalink: pretty
 
 sass:
   style: compressed
@@ -42,3 +70,13 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+plugins:
+  - jekyll-feed
+
+feed:
+  collections:
+    news:
+      path: "/feeds/news.atom"
+    seminars:
+      path: "/feeds/seminars.atom"
