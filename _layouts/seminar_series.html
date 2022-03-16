@@ -32,9 +32,11 @@
           {% assign seminars = site.seminars | where_exp:"items", "items.series contains page.series" %}
 
           <h2>Upcoming Talks</h2>
+          {% assign count_future_seminar = 0 %}
           {% for seminar in seminars %}
           {% assign seminar_date = seminar.date | date: '%s' %}
           {% if seminar_date >= site_time %}
+          {% assign count_future_seminar = count_future_seminar | plus:1 %}
           <b>{{ seminar.date | date: "%b, %-d %Y" }}</b> by {{ seminar.speaker }}{% if seminar.affiliation and seminar.affiliation != "" %}, {{ seminar.affiliation }}{% endif %}
           <h3>&#10077;<a href="{{ seminar.url | relative_url }}" class="link">{{ seminar.title }}</a>&#10078;</h3>
           {% if seminar.keywords %}<p>Keywords: {{ seminar.keywords }}</p>{% endif %}
@@ -44,6 +46,10 @@
           <br />
           {% endif %}
           {% endfor %}
+          {% if count_future_seminar == 0 %}
+          <i>There are currently no future talks scheduled.</i>
+          {% endif %}
+
 
           <br />
           <hr class="major">
