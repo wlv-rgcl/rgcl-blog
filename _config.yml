@@ -4,7 +4,7 @@ subtitle: University of Wolverhampton
 email: riilp@wlv.ac.uk
 description: Blog of the Research Group in Computational Linguistics <br />at the University of Wolverhampton
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: http://rgcl.wlv.ac.uk # the base hostname & protocol for your site
 author: RGCL
 university: University of Wolverhampton 
 room_address: MC135 
