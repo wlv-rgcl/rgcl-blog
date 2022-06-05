@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
     <p>
     Here you will find details of our Research Seminars.
-    If you would like to be sent a meeting link, please contact&nbsp;<a href="mailto:a.harper2@wlv.ac.uk">April Harper</a>, who will be able to provide you with log on details.
+    If you would like to be sent a meeting link, please contact&nbsp;<a href="mailto:A.Bloore@wlv.ac.uk">Dr Amanda Bloore</a>, who will be able to provide you with log on details.
     They provisionally take place on Mondays, Wednesdays and Fridays.
     </p>
 	</div>
