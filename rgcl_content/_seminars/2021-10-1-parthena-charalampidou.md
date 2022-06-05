@@ -1,0 +1,19 @@
+---
+layout: seminar
+title: "Storytelling and multimodal metaphors in technical and operative content of multilingual corporate websites"
+speaker: "Dr Parthena Charalampidou"
+affiliation: "University of Thessaloniki"
+time: 11am
+series: emtti # emtti, nlp, mldl, dh 
+image: null 
+---
+
+### Abstract
+
+Technical Communication constitutes a prerequisite for a product’s safe and efficient usage, as well as an inextricable part of its dissemination processes and branding strategy. It has to be localized, i.e. culturally adapted to the countries in which a company’s products or services are marketed, supporting their respective languages, and optimized for multilingual SEO. Traditionally, Technical Communication was offered in printed form only and took place through written discourse usually accompanied by supporting images. However, with the advent of technology and the development of digital means of communication, Technical Communication has transformed into a multisemiotic and multimodal form of communication. Dynamic pictures and videos have replaced static technical content found in imagetexts. Moreover, interactive elements allow users to share their personal experiences with the product and even become producers of Technical Communication content themselves (Kimball, 2006).  
+In this context, technical content is no longer isolated from the company’s marketing strategy but is rather very often integrated into it through the hypermodal possibilities offered by the multimedial context in which it occurs. The brand’s storytelling can then take various forms and can become intertwined, through different traversals, with the product’s technical documentation. Thus, although technical content was formally considered mainly informative, new realities reveal that technical content can be both operative and expressive, in line with the marketing story of the brand.  
+In this talk we will address this new form of multimodal technical content and the development of digital storytelling in localized  and international corporate website versions. We will examine, comparatively and contrastively, the multisemiotic narratives that are being developed in different cultural contexts, in order to appeal to different audiences, either local or international ones. Particular attention will be given to multimodal rhetorical tropes such as multimodal metaphors and the way they contribute to a corporate website’s narrative. Multimodal metaphors’ culture-specificity is expected to unveil discrepancies in different language versions.
+
+### Speaker's bio
+
+Parthena Charalampidou holds a BA in English Language and Literature, an MA in Language and Communication Sciences and a PhD in Translation and Website Localization from Aristotle University of Thessaloniki. Her research interests revolve around semiotic, rhetorical and cultural approaches to translation and she is particularly interested in the localization of promotional digital genres (transcreation) and in the application of technology and corpora to translation. Currently, she teaches Localization and Multimodal translation at the department of Translation, School of French Language and Literature, Aristotle University of Thessaloniki. She is also a member of the teaching staff of the Joint EMT Postgraduate Programme “Interpreting and Translation” and has been a Visiting Scholar of the Erasmus Mundus Master Programme 'Technology for Translation and Interpreting' for the spring semester of 2020-2021. She has worked as a freelance translator and she is a member of scientific associations for translation and semiotics. She has participated in national and international conferences and her research has been published in various scientific journals, volumes and conference proceedings. She has recently translated Miguel Jimenez Crespo’s book “Translation and Web Localization” in Greek.
