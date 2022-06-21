@@ -1,13 +1,40 @@
 <!DOCTYPE html>
 <html>
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
-    <script type="text/javascript">document.body.classList.add("is-loading");</script>
+  <body>
 
-    {% include header.html %} {{ content }} {% include footer.html %}
+    {% include header.html %}
 
-</body>
+    <section id="banner" class="style1">
+      <div class="inner">
+        <span class="image">
+          <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+        </span>
+        <header class="tiles">
+
+          <h1 class="tiles">{{ page.title }}</h1>
+          <h3 class="tiles">{{ page.description }}</h3>
+
+        </header>
+      </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main" class="alt">
+
+      <!-- One -->
+      <section id="one">
+        <div class="inner">
+            {{ content }}
+        </div>
+      </section>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
 
 </html>

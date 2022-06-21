@@ -1,8 +1,8 @@
 # site settings
-title: RGCL's blog
+title: RGCL
 subtitle: University of Wolverhampton 
 email: riilp@wlv.ac.uk
-description: Blog of the Research Group in Computational Linguistics <br />at the University of Wolverhampton
+description: Website of the Research Group in Computational Linguistics<br />at the University of Wolverhampton
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://rgcl.wlv.ac.uk # the base hostname & protocol for your site
 author: RGCL

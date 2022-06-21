@@ -61,6 +61,10 @@
     text-justify: inter-word;
 	}
 
+  p.tiles {
+		color: _palette(fg-alt);
+  }
+
 	blockquote > p {
 		margin: 0;
 	}
@@ -81,6 +85,10 @@
 		font-size: 2.5em;
 	}
 
+  h1.tiles {
+		color: _palette(fg-alt);
+  }
+
 	h2 {
 		font-size: 1.75em;
 	}
@@ -88,6 +96,10 @@
 	h3 {
 		font-size: 1.35em;
 	}
+  
+  h3.tiles {
+		color: _palette(fg-alt);
+  }
 
 	h4 {
 		font-size: 1.1em;
@@ -158,7 +170,7 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px _palette(border);
+		border-bottom: solid 1px _palette(berry);
 		margin: _size(element-margin) 0;
 
 		&.major {

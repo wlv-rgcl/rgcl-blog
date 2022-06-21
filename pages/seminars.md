@@ -1,9 +1,12 @@
 ---
-title: Seminars
+title: Seminars Series
 layout: landing
 description: 'Our seminar series, list of speakers and schedule' 
-image: assets/images/uwolv-lecture-theatre.jpg
+image: assets/images/illustration-studies.jpg
 nav-menu: true
+show_tile: true
+tile_order: 3
+permalink: seminars-series
 ---
 
 <!-- Main -->
@@ -42,7 +45,7 @@ nav-menu: true
         The seminar series has both strong research and industrial foci and as such serves not only as a forum showcasing latest research, professional practices, software and business developments but also bridging the gap between academia and the industry.
         </p>
 				<ul class="actions">
-					<li><a href="{{ site.url | relative_url }}/seminars_emtti" class="button">Learn more</a></li>
+					<li><a href="{{ site.url | relative_url }}/seminars-series/EMTTI" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -65,7 +68,7 @@ nav-menu: true
         Among the research areas relevant to NLP, the seminar series shall cover work on machine translation, text categorisation and summarisation, sentiment analysis, as well as some of its application, such as in fake news detection, healthcare, etc.
         </p>
 				<ul class="actions">
-					<li><a href="{{ site.url | relative_url }}/seminars_nlp" class="button">Learn more</a></li>
+					<li><a href="{{ site.url | relative_url }}/seminars-series/NLP" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -89,7 +92,7 @@ nav-menu: true
         The seminar series also welcomes talks on the analysis and interpretation of neural networks.
         </p>
 				<ul class="actions">
-					<li><a href="{{ site.url | relative_url }}/seminars_mldl" class="button">Learn more</a></li>
+					<li><a href="{{ site.url | relative_url }}/seminars-series/MLDL" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -114,7 +117,7 @@ nav-menu: true
         The Digital Humanities seminar series will give the students and staff the opportunity to listen to talks by, and engage with, leading figures in humanities computing from across the spectrum.
         </p>
 				<ul class="actions">
-					<li><a href="{{ site.url | relative_url }}/seminars_dh" class="button">Learn more</a></li>
+					<li><a href="{{ site.url | relative_url }}/seminars-series/DH" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

@@ -92,7 +92,7 @@
 
 			&:hover {
 				&:before {
-					opacity: 0;
+					opacity: 0.4;
 				}
 			}
 
@@ -103,7 +103,8 @@
 			}
 
 			&:nth-child(4n - 1),
-			&:nth-child(4n - 2) {
+			&:nth-child(4n - 2),
+			&:nth-child(6n - 1) {
 				flex: 1 auto;
 			}
 
