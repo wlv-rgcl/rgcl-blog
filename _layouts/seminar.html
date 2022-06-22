@@ -46,6 +46,10 @@
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl | relative_url }}/{{ page.image }}" alt="" /></span>{% endif %}
     <p>{{ content }}</p>
 
+    {% if page.keywords %}
+    <p><b>Keywords:</b> {{ page.keywords }}</p>
+    {% endif %}
+
     {% if page_time >= site_time %}
     <b><i>If you would like to be sent the meeting link, please contact&nbsp;<a href="mailto:A.Bloore@wlv.ac.uk">Dr Amanda Bloore</a>.</i></b>
     {% endif %}
