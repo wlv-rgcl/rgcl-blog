@@ -37,10 +37,21 @@
           {% assign seminar_date = seminar.date | date: '%s' %}
           {% if seminar_date >= site_time %}
           {% assign count_future_seminar = count_future_seminar | plus:1 %}
-          <b>{{ seminar.date | date: "%b, %-d %Y" }}</b> by {{ seminar.speaker }}{% if seminar.affiliation and seminar.affiliation != "" %}, {{ seminar.affiliation }}{% endif %}
-          <h3>&#10077;<a href="{{ seminar.url | relative_url }}" class="link">{{ seminar.title }}</a>&#10078;</h3>
-          {% if seminar.keywords %}<p>Keywords: {{ seminar.keywords }}</p>{% endif %}
-          <a href="{{ seminar.url | relative_url }}" class="button small">Abstract &amp; Speaker Bio</a>
+          {% assign d = seminar.date | date: "%d" | plus:'0' %}
+            {{ seminar_date | date: "%b" }}.
+            {% case d %}
+            {% when 1 or 21 or 31 %}{{ d }}st
+            {% when 2 or 22 %}{{ d }}nd
+            {% when 3 or 23 %}{{ d }}rd
+            {% else %}{{ d }}th
+            {% endcase %}
+            {{ seminar.date | date: "%Y" }}
+          - {{ seminar.speaker }}{% if seminar.affiliation and seminar.affiliation != "" %}, {{ seminar.affiliation }}{% endif %}
+          <br />
+          <h4 style="margin-bottom:7px">
+            &#10077;<a href="{{ seminar.url | relative_url }}" class="link">{{ seminar.title }}</a>&#10078;
+          </h4>
+          <a href="{{ seminar.url | relative_url }}" class="button special small">Read Abstract &amp; Speaker Bio</a>
           <br />
           <br />
           <br />
@@ -58,14 +69,21 @@
           <h2>Past Talks</h2>
           {% for seminar in seminars reversed %}
           {% assign seminar_date = seminar.date | date: '%s' %}
+          {% assign d = seminar.date | date: "%d" | plus:'0' %}
           {% if seminar_date < site_time %}
-          <!-- {{ seminar.date | date: "%b, %-d %Y" }} by {{ seminar.speaker }}{% if seminar.affiliation and seminar.affiliation != "" %}, {{ seminar.affiliation }}{% endif %} -->
-          &#9745; {{ seminar.speaker }}{% if seminar.affiliation and seminar.affiliation != "" %}, {{ seminar.affiliation }}{% endif %}
-          <h4>&#10077;<a href="{{ seminar.url | relative_url }}" class="link">{{ seminar.title }}</a>&#10078;</h4>
+          <h4 style="margin-bottom:-5px">&#9745; &#10077;<a href="{{ seminar.url | relative_url }}" class="link">{{ seminar.title }}</a>&#10078;</h4>
+          by {{ seminar.speaker }}{% if seminar.affiliation and seminar.affiliation != "" %}, {{ seminar.affiliation }}{% endif %} | <span style="font-size:0.7em">{{ seminar_date | date: "%b" }}. 
+          {% case d %}
+          {% when 1 or 21 or 31 %}{{ d }}st
+          {% when 2 or 22 %}{{ d }}nd
+          {% when 3 or 23 %}{{ d }}rd
+          {% else %}{{ d }}th
+          {% endcase %}
+          {{ seminar.date | date: "%Y" }} </span>
+          <br />
+          <br />
           {% endif %}
           {% endfor %}
-          <br />
-          <br />
         </div>
       </section>
     </div>
