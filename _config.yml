@@ -25,7 +25,7 @@ news-count: 5
 
 defaults:
   - scope:
-      path: "rgcl_content/images"
+      path: "medias"
     values:
       image: true
   - scope:
@@ -35,7 +35,7 @@ defaults:
 
 future: true
 
-collections_dir: rgcl_content
+collections_dir: posts 
 collections:
   news:
     output: true

@@ -13,7 +13,7 @@ The organisers evaluated the papers based on different metrics:
 - Clear and good presentation of work
 - Released resources (code, etc.)
 
-![Best paper aware announcement](../../rgcl_content/images/2022-06-1-best-paper-quran-qa-shared-task.png "Best paper award announcement")
+![Best paper aware announcement]({{ site.url | relative_url}}/medias/2022-06-1-best-paper-quran-qa-shared-task.png "Best paper award announcement")
 
 **Authors:** Damith Premasiri , Tharindu Ranasinghe , Wajdi Zaghouani , Ruslan Mitkov  
 

@@ -34,7 +34,6 @@
           <!-- On {{ news.date | date: "%b, %-d %Y" }} -- <i>by {{ news.author }}</i> -->
           On {{ news.date | date: "%b, %-d %Y" }}
           <h3><a href="{{ news.url  | relative_url }}" class="link">{{ news.title }}</a></h3>
-          <!-- {% if news.slug %}<p>{% if news.image %}<span class="image fit right"><img src="{{ site.baseurl }}/rgcl_content/images/{{ news.image }}" alt="" /></span>{% endif %}{{ news.slug }}</p>{% endif%} -->
           {% if news.slug and news.slug != "" %}<p>{{ news.slug }}</p>{% endif%}
           <a href="{{ news.url | relative_url }}" class="button small">Read more</a>
           <hr class="major" />
