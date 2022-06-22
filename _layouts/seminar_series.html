@@ -38,7 +38,7 @@
           {% if seminar_date >= site_time %}
           {% assign count_future_seminar = count_future_seminar | plus:1 %}
           {% assign d = seminar.date | date: "%d" | plus:'0' %}
-            {{ seminar_date | date: "%b" }}.
+            {{ seminar_date | date: "%b" }}
             {% case d %}
             {% when 1 or 21 or 31 %}{{ d }}st
             {% when 2 or 22 %}{{ d }}nd
@@ -72,7 +72,7 @@
           {% assign d = seminar.date | date: "%d" | plus:'0' %}
           {% if seminar_date < site_time %}
           <h4 style="margin-bottom:-5px">&#9745; &#10077;<a href="{{ seminar.url | relative_url }}" class="link">{{ seminar.title }}</a>&#10078;</h4>
-          by {{ seminar.speaker }}{% if seminar.affiliation and seminar.affiliation != "" %}, {{ seminar.affiliation }}{% endif %} | <span style="font-size:0.7em">{{ seminar_date | date: "%b" }}. 
+          by {{ seminar.speaker }}{% if seminar.affiliation and seminar.affiliation != "" %}, {{ seminar.affiliation }}{% endif %} | <span style="font-size:0.7em">{{ seminar_date | date: "%b" }}
           {% case d %}
           {% when 1 or 21 or 31 %}{{ d }}st
           {% when 2 or 22 %}{{ d }}nd
