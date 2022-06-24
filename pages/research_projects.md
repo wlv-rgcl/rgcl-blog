@@ -28,7 +28,7 @@ A strong consortium of the&nbsp;<a href="https://www.wlv.ac.uk/" target="_blank"
 
 <!-- Separator between project:  -->
 <hr />
-### Responsible Digital Humanities Lab (RIGHT)
+### <span class="icon fa-solid fa-bookmark"></span> Responsible Digital Humanities Lab (RIGHT)
 
 **PI: Prof Ruslan Mitkov**
 
