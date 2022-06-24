@@ -28,6 +28,21 @@ A strong consortium of the&nbsp;<a href="https://www.wlv.ac.uk/" target="_blank"
 
 <!-- Separator between project:  -->
 <hr />
+### Responsible Digital Humanities Lab (RIGHT)
+
+**PI: Prof Ruslan Mitkov**
+
+**Project Website: <a href="https://right-dh.github.io">https://right-dh.github.io</a>**
+
+This proposal establishes a multidisciplinary Responsible Digital Humanities Lab (RIGHT), which will be the first of its kind in the UK and seek to be a regional, national, and international leader in the field of Digital Humanities (DH). RIGHT’s priorities will be to advance the field of DH, foster strong collaboration across UoW, and create tools, datasets and guidelines for ethical, responsible Natural Language Programming (NLP) focused DH. The emphasis on responsible DH makes it a unique, pioneering hub for advancing human-centred computing. We bring AI to the Humanities together with the ethics and responsibility of the Humanities to AI.
+
+RIGHT will harness NLP expertise to deliver internationally leading research in Humanities disciplines such as Sikh and Panjabi Studies, History, Literature and Film Studies with impact reaching far beyond academia. It will develop a flagship DH initiative for Panjabi with the Centre for Sikh and Panjabi Studies.
+
+RIGHT will be situated within the Research Group in Computational Linguistics (RGCL), which has a strong track record of NLP and DH research, prestigious national and international collaborations, and strong collaborative links within UoW. RIGHT will be supported by the Statistical Cybermetrics Research Group (SCRG) and the Centre for Sikh and Panjabi Studies.
+
+
+<!-- Separator between project:  -->
+<hr />
 
 ### <span class="icon fa-solid fa-bookmark"></span> Cultural Analytics for the Arabic and Islamic Heritage
 
