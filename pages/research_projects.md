@@ -17,7 +17,7 @@ permalink: research/current-projects
 **Coordinator: Prof Ruslan Mitkov**  
 **Local Coordinator: Dr Sara Moze**
 
-**Project Website: <a href="https://em-tti.eu/">https://em-tti.eu/</a>**
+**Project Website: <a href="https://em-tti.eu/">em-tti.eu</a>**
 
 The amount of text available in electronic format and available on the internet is growing exponentially and much of this information has to be translated or interpreted. As a result, there is a pressing need for a new generation of translators and interpreters who rely less on traditional methods and instead benefit from a range of time- and labour-efficient technological tools. To address the growing demand for such professional translators and interpreters, **MA Technology for Translation and Interpreting (MA TTI)** will produce specialists in translation and interpreting who are up-to-date with the latest applications which support their daily work.
 
@@ -32,7 +32,7 @@ A strong consortium of the&nbsp;<a href="https://www.wlv.ac.uk/" target="_blank"
 
 **PI: Prof Ruslan Mitkov**
 
-**Project Website: <a href="https://right-dh.github.io">https://right-dh.github.io</a>**
+**Project Website: <a href="https://right-dh.github.io">right-dh.github.io</a>**
 
 This proposal establishes a multidisciplinary Responsible Digital Humanities Lab (RIGHT), which will be the first of its kind in the UK and seek to be a regional, national, and international leader in the field of Digital Humanities (DH). RIGHT’s priorities will be to advance the field of DH, foster strong collaboration across UoW, and create tools, datasets and guidelines for ethical, responsible Natural Language Programming (NLP) focused DH. The emphasis on responsible DH makes it a unique, pioneering hub for advancing human-centred computing. We bring AI to the Humanities together with the ethics and responsibility of the Humanities to AI.
 
