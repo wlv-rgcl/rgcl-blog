@@ -35,3 +35,18 @@ Most of the research is carried out as part of externally funded projects. If yo
 <br />
 If you are interested in working with us, please contact us using the <a href="#contact" class="scrolly">information below</a>.
 </p>
+
+<br />
+
+<header class="major">
+<h2>What others say about us</h2>
+</header>
+
+<b>Ted Marshall, Translution CEO:</b>
+  > "This is the most competent and most successful research group I have ever worked with… and the only one which has never missed a deadline…"
+
+<b>Robert Galbraith, then Director of Innovation at National Board of Medical Examiners (NBME), USA:</b>
+  > "Wolverhampton is well-known for 2 things: the industrial revolution and … the Research Group in Computational Linguistics… They simply do magical things…"
+
+<b>Stoyan Kenderov, then Director of Business Development and Next-Generation Services of Amdocs, USA:</b>
+  > "Prof. Mitkov has created one of the strongest research centers for Computational Linguistics in the world."
