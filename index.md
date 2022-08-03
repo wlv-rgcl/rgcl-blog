@@ -51,4 +51,7 @@ If you are interested in working with us, please contact us using the <a href="#
 <b>Stoyan Kenderov, then Director of Business Development and Next-Generation Services of Amdocs, USA:</b>
   > "Prof. Mitkov has created one of the strongest research centers for Computational Linguistics in the world."
 
+<b>Prof Will Lewis – University of Washington, former Principal Technical Program Manager at Microsoft:
+  > "The Research Group in Computational Linguistics at the university of Wolverhampton is one of the premier CompLing programs in the world and literally put Wolverhampton on the map."
+
 <a href="{{ site.url | relative_url }}/honorary-members" class="button special fit small">List of RGCL honorary members</a>
