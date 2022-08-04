@@ -60,7 +60,7 @@ If you are interested in working with us, please contact us using the <a href="#
 <b>Prof María Teresa Martín Valdivia, Deputy Vice Chancellor (Vicerrectora) at the University of Jaen:</b>
   > "Prof Mitkov leads a research institute which is a trademark for internationally leading research."
 
-<b>Rafael Muñoz Guillena, ex Deputy Vice Chancellor (Vicerrector) at the University of Alicante:</b>
+<b>Prof Rafael Muñoz Guillena, ex Deputy Vice Chancellor (Vicerrector) at the University of Alicante:</b>
   > "Prof Mitkov has grown a world-leading group delivering cutting-edge research. It is one of the best in the world."
 
 <a href="{{ site.url | relative_url }}/honorary-members" class="button special fit small">List of RGCL honorary members</a>
