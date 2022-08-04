@@ -13,6 +13,7 @@ permalink: honorary-members
 - <b>Prof Eric Atwell</b>, University of Leeds
 - <b>Prof Patricio Barco</b>, University of Alicante
 - <b>Prof Lynne Bowker</b>, University of Ottawa
+- <b>Prof María Luisa Carrió Pastor</b>, Polytechnic University of Valencia, Head of Department 'Applied Linguistics'
 - <b>Dr Ken W. Church</b>, Senior Principal Research Scientist at Northeastern University
 - <b>Prof Jean-Pierre Colson</b>, Université catholique de Louvain
 - <b>Ms Amal Haddad Haddad</b>, Universidad de Granada
