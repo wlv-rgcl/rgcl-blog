@@ -13,6 +13,7 @@ permalink: honorary-members
 - <b>Prof Eric Atewell</b>, University of Leeds
 - <b>Prof Patricio Barco</b>, University of Alicante
 - <b>Prof Lynne Bowker</b>, University of Ottawa
+- <b>Dr Kenneth W. Church</b>, Senior Principal Research Scientist at Northeastern University
 - <b>Prof Jean-Pierre Colson</b>, Université catholique de Louvain
 - <b>Ms Amal Haddad Haddad</b>, Universidad de Granada
 - <b>Prof Eduard Hovy</b>, Carnegie Mellon University
@@ -27,5 +28,4 @@ permalink: honorary-members
 - <b>Dr Vilelmini Sosoni</b>, Ionian University
 - <b>Prof Michael Thelwall</b>, University of Wolverhampton
 - <b>Prof Alfonso Ureña López</b>, University of Jaen, Director of the centre for advanced studies in information and communication technology;  President of the Spanish Association for Natural Language Processing
-- <b>Dr Kenneth Ward Church</b>, Senior Principal Research Scientist at Northeastern University
 - <b>Dr Michael Zock</b>, CNRS, Aix Marseille Université, Group TALEP

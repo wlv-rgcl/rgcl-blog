@@ -51,13 +51,16 @@ If you are interested in working with us, please contact us using the <a href="#
 <b>Stoyan Kenderov, then Director of Business Development and Next-Generation Services of Amdocs, USA:</b>
   > "Prof. Mitkov has created one of the strongest research centers for Computational Linguistics in the world."
 
-<b>Prof Will Lewis – University of Washington, former Principal Technical Program Manager at Microsoft:
+<b>Prof Will Lewis, University of Washington, former Principal Technical Program Manager at Microsoft:</b>
   > "The Research Group in Computational Linguistics at the university of Wolverhampton is one of the premier CompLing programs in the world and literally put Wolverhampton on the map."
 
 <b>Prof Alfonso Ureña López, President of the Spanish Association for Natural Language Processing:</b>
   > "It is difficult to find many names in the field Natural Language Processing better known in the world than Prof Ruslan Mitkov and it is equally difficult to find many research groups in the field more successful than his research group."
 
-<b>Prof María Teresa Martín Valdivia, Deputy Vice Chancellor (Vicerrectora)at the University of Jaen</b>
+<b>Prof María Teresa Martín Valdivia, Deputy Vice Chancellor (Vicerrectora) at the University of Jaen:</b>
   > "Prof Mitkov leads a research institute which is a trademark for internationally leading research."
+
+<b>Rafael Muñoz Guillena, ex Deputy Vice Chancellor (Vicerrector) at the University of Alicante:</b>
+  > "Prof Mitkov has grown a world-leading group delivering cutting-edge research. It is one of the best in the world."
 
 <a href="{{ site.url | relative_url }}/honorary-members" class="button special fit small">List of RGCL honorary members</a>
