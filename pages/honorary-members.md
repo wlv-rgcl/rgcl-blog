@@ -28,4 +28,5 @@ permalink: honorary-members
 - <b>Dr Vilelmini Sosoni</b>, Ionian University
 - <b>Prof Michael Thelwall</b>, University of Wolverhampton
 - <b>Prof Alfonso Ureña López</b>, University of Jaen, Director of the centre for advanced studies in information and communication technology;  President of the Spanish Association for Natural Language Processing
+- <b>Prof Aline Villavicencio</b>, University of Sheffield
 - <b>Dr Michael Zock</b>, CNRS, Aix Marseille Université, Group TALEP
