@@ -22,6 +22,7 @@ permalink: honorary-members
 - <b>Ms Amal Haddad Haddad</b>, Universidad de Granada
 - <b>Prof Eduard Hovy</b>, Carnegie Mellon University
 - <b>Dr Dimitar Kazakov</b>, University of York
+- <b>Prof Sandra Kuebler</b>, Indiana University Bloomington
 - <b>Prof William D. Lewis</b>, University of Washington, former Principal Technical Program Manager at Microsoft
 - <b>Prof María Teresa Martín Valdivia</b>, University of Jaen, Deputy Vice Chancellor (Vicerrectora)
 - <b>Prof Tony McEnery</b>, Distinguished Professor of University of Lancaster, Fellow of the Academy of Social Sciences and of the Royal Society of Arts, Ex Interim Chief Executive ESRC, Ex Director or Research ESRC, Ex-Director of Research AHRC 
@@ -33,4 +34,5 @@ permalink: honorary-members
 - <b>Prof Michael Thelwall</b>, University of Wolverhampton
 - <b>Prof Alfonso Ureña López</b>, University of Jaen, Director of the centre for advanced studies in information and communication technology;  President of the Spanish Association for Natural Language Processing
 - <b>Prof Aline Villavicencio</b>, University of Sheffield
+- <b>Ms Eveline Wandl-Vogt</b>, Austrian Academy of Sciences
 - <b>Dr Michael Zock</b>, CNRS, Aix Marseille Université, Group TALEP
