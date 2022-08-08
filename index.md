@@ -42,6 +42,9 @@ If you are interested in working with us, please contact us using the <a href="#
 <h2>What others say about us</h2>
 </header>
 
+<b>Prof Eduard Hovy, Carnegie Mellon University:</b>
+  >"Prof Mitkov has a very strong record of turning out people as well as ideas"
+
 <b>Ted Marshall, Translution CEO:</b>
   > "This is the most competent and most successful research group I have ever worked with… and the only one which has never missed a deadline…"
 
