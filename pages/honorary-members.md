@@ -24,6 +24,7 @@ permalink: honorary-members
 - <b>Dr Dimitar Kazakov</b>, University of York
 - <b>Prof Sandra Kuebler</b>, Indiana University Bloomington
 - <b>Prof William D. Lewis</b>, University of Washington, former Principal Technical Program Manager at Microsoft
+- <b>Dr Suresh Manandhar</b>, NAAMI Institute
 - <b>Prof María Teresa Martín Valdivia</b>, University of Jaen, Deputy Vice Chancellor (Vicerrectora)
 - <b>Prof Tony McEnery</b>, Distinguished Professor of University of Lancaster, Fellow of the Academy of Social Sciences and of the Royal Society of Arts, Ex Interim Chief Executive ESRC, Ex Director or Research ESRC, Ex-Director of Research AHRC 
 - <b>Prof Andrés Montoyo Guijarro</b>, University of Alicante, ex Dean of the School of Computer Science
