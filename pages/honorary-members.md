@@ -31,6 +31,7 @@ permalink: honorary-members
 - <b>Dr Rozane Rebechi</b>, Universidad Rio Grande do Sur
 - <b>Prof Mark Shuttleworth</b>, Acting Department Head at Hong Kong Baptist University
 - <b>Dr Vilelmini Sosoni</b>, Ionian University
+- <b>Prof. Horacio Saggion</b>, Universitat Pompeu Fabra
 - <b>Prof Michael Thelwall</b>, University of Wolverhampton
 - <b>Prof Alfonso Ureña López</b>, University of Jaen, Director of the centre for advanced studies in information and communication technology;  President of the Spanish Association for Natural Language Processing
 - <b>Prof Aline Villavicencio</b>, University of Sheffield
