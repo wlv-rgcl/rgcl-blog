@@ -10,7 +10,7 @@ author: "RGCL"
 The Research Group in Computational Linguistics (RGCL) was established by Prof Ruslan Mitkov in 1997.  
 The group began based in the now closed B building and started with Prof Mitkov’s PhD student at the time, Magdalena Wolkska. 
 
-Group members, Ramesh Krishnamurphy, Constantin Orasan and Richard Evans joined shortly afterwards in 1998. 
+Group members, Ramesh Krishnamurthy, Constantin Orasan and Richard Evans joined shortly afterwards in 1998. 
 Ramesh was appointed on the EC-funded project ‘SELECT’ which was concerned with using NLP and language tools and resources for language learning. 
 Richard was appointed to work with Prof Mitkov on Anaphora Resolution and Constantin was appointed as a PhD student to work on text summarisation. 
 
