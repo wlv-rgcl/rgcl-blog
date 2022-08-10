@@ -32,4 +32,7 @@ Members of the group have won the following highly competitive awards (the below
 * 1st place at the HASOC 2021 Marathi track out of 25 teams
 * Best Paper award in Qur'an QA 2022 Shared Task at the 5th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT 2022)
 
+Achievements of our research Team were possible due to the continuous support of our brilliant Admin Team, who was recently awarded the "Staff excellence Award" by our Vice-Chancellor.
+**[Read more about it here](https://rgcl.wlv.ac.uk/news/2021-11-19-vice-chancellor-award-staff-excellence)**.
+
 ![Passion led us here]({{ site_url | relative_url}}/medias/2022-08-08-RGCL-25th-anniversary-day1.jpg "Passion led us here!")
