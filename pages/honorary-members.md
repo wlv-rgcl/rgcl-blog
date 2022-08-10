@@ -31,6 +31,7 @@ permalink: honorary-members
 - <b>Prof Andrés Montoyo Guijarro</b>, University of Alicante, ex Dean of the School of Computer Science
 - <b>Prof Rafael Muñoz Guillena</b>, University of Alicante, ex Deputy Vice Chancellor (Vicerrector)
 - <b>Dr Rozane Rebechi</b>, Universidad Rio Grande do Sur
+- <b>Dr Nasredine Semmar</b>, CEA LIST
 - <b>Prof Mark Shuttleworth</b>, Acting Department Head at Hong Kong Baptist University
 - <b>Dr Vilelmini Sosoni</b>, Ionian University
 - <b>Prof. Horacio Saggion</b>, Universitat Pompeu Fabra
