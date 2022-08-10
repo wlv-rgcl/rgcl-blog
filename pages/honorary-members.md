@@ -21,6 +21,7 @@ permalink: honorary-members
 - <b>Ms Anna Beatriz Dimas Furtado</b>, University of Wolverhampton
 - <b>Ms Amal Haddad Haddad</b>, Universidad de Granada
 - <b>Prof Eduard Hovy</b>, Carnegie Mellon University
+- <b>Ms Mina Ilieva</b>, CEO of Mitra Translations
 - <b>Dr Dimitar Kazakov</b>, University of York
 - <b>Prof Sandra Kuebler</b>, Indiana University Bloomington
 - <b>Prof William D. Lewis</b>, University of Washington, former Principal Technical Program Manager at Microsoft
