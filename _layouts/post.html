@@ -19,6 +19,10 @@
           {% if page.title != 404 %}
           <p>Published on {{ page.date | date: "%b, %-d %Y" }} by {{ page.author}}.</p>
           <p>
+            {% if page.slug != "" %}
+            <h3>{{ page.slug }}</h3>
+            <br />
+            {% endif %}
             {% if page.image %}
             <span class="image fit"><img src="{{ site.baseurl }}/medias/{{ page.image }}" alt="" /></span>
             {% endif %}
