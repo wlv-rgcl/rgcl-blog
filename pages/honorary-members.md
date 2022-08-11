@@ -10,7 +10,7 @@ permalink: honorary-members
 ---
 
 <h3>List of RGCL honorary members:</h3>
-- <b>Prof Cengiz Acarturk</b>, Cognitive Science Department, Jagiellonian University, Kraków, Poland & Cognitive Science Department, Orta Dogu Teknik Universitesi, Ankara, Turkey
+- <b>Prof Cengiz Acarturk</b>, Jagiellonian University, Poland & Orta Dogu Teknik Universitesi, Turkey 
 - <b>Prof Eric Atwell</b>, University of Leeds
 - <b>Prof Patricio Barco</b>, University of Alicante
 - <b>Prof Lynne Bowker</b>, University of Ottawa
