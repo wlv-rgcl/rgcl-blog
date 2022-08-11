@@ -2,12 +2,9 @@
 layout: post
 title: "RGCL Anniversary Highlights, Day 4"
 slug: "RGCL in the News! With Dr Victoria Yaneva"
-image: ""
+image: "2022-08-11-RGCL-25th-anniversary-day4_pict1.jpg"
 author: "RGCL"
 ---
-<h3>RGCL in the News! With Dr Victoria Yaneva</h3>
-
-![ITV News in RGCL offices]({{ site_url | relative_url}}/medias/2022-08-11-RGCL-25th-anniversary-day4_pict1.jpg "ITV News in RGCL offices.")  
 
 In a recent message of support from [Professor Ed Hovy](https://www.cs.cmu.edu/~hovy/) -- a highly respected figure in the Computational Linguistics community – we were reminded that RGCL "has a very strong record of turning out people as well as ideas". 
 One such success is our former PhD student Victoria Yaneva, who went on to work with us as a postdoctoral researcher and then a lecturer, and is now Senior Data Scientist at the National Board of Medical Examiners (NBME) in the US.
