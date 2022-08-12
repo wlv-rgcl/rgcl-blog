@@ -32,6 +32,7 @@ permalink: honorary-members
 - <b>Prof Johanna Monti</b>,Department of Literary, Linguistic and Comparative Studies at the University of Naples "L'Orientale"
 - <b>Prof Andrés Montoyo Guijarro</b>, University of Alicante, ex Dean of the School of Computer Science
 - <b>Prof Rafael Muñoz Guillena</b>, University of Alicante, ex Deputy Vice Chancellor (Vicerrector)
+- <b>Prof Javier Perez Guerra</b>, University of Vigo
 - <b>Dr Rozane Rebechi</b>, Universidad Rio Grande do Sur
 - <b>Prof Nasredine Semmar</b>, CEA LIST
 - <b>Prof Mark Shuttleworth</b>, Acting Department Head at Hong Kong Baptist University
