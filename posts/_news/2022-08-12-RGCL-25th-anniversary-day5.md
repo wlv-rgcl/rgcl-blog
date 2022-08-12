@@ -2,7 +2,7 @@
 layout: post
 title: "RGCL Anniversary Highlights, Day 5"
 slug: "RGCL Admin Team Win VC Staff Excellence Award"
-image: ""
+image: "2022-08-12-RGCL-25th-anniversary-day5_pict1.png"
 author: "RGCL"
 ---
 
