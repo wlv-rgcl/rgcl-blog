@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Teaching and Learning in a Pandemic'
-slug: 'It is good to be back on site ! After a year of online teaching, we are finally back on campus to meet our students and resume teaching in person. In this blog post, both teaching staff and students confide about the situation being (almost) back to normal.' 
-image: 2020-11-12-teaching-learning-pandemic.jpg
+slug: "First face to face interaction for a very long time"
+image: "2020-11-12-teaching-learning-pandemic.jpg"
 ---
 
+It is good to be back on site ! After a year of online teaching, we are finally back on campus to meet our students and resume teaching in person. In this blog post, both teaching staff and students confide about the situation being (almost) back to normal. 
 
-### **First face to face interaction for a very long time.**
-
+![Face to face teaching]({{ site_url | relative_url}}/medias/2020-11-12-teaching-learning-pandemic.jpg "Face to face teaching")
 
 Dr Le An Ha, Lecturer:
 

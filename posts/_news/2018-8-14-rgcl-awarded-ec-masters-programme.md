@@ -5,6 +5,8 @@ slug: ""
 image: 2018-8-14-rgcl-awarded-ec-masters-programme.png
 ---
 
+![Erasmus+]({{ site_url | relative_url}}/medias/2018-8-14-rgcl-awarded-ec-masters-programme.png "Erasmus+")
+
 The Research Group in Computational Linguistics (RGCL) has been successful in their application for a European Masters in Technology for Translation and Interpreting (EM TTI).
 
 EM TTI will be run by the strong consortium consisting of the University of Wolverhampton, University of Malaga (Spain), University of Ljubljana (Slovenia) and New Bulgarian University (Bulgaria) and will deliver a cohesive, integrated European-wide programme. Bringing together these four Higher Education institutions, who are leading researchers in computational aspects of language study, as well as in state-of-the-art technology for translation and interpreting, will give the students access to high-profile academics and best practices across the field. Students on the two-year degree course have the opportunity to study at multiple universities and undertake industry placements related to their dissertation.

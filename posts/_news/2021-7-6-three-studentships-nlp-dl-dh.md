@@ -5,6 +5,8 @@ slug: ""
 image: 2021-7-6-three-studentships-nlp-dl-dh.png
 ---
 
+![University of Wolverhampton]({{ site_url | relative_url}}/medias/2021-7-6-three-studentships-nlp-dl-dh.png "University of Wolverhampton")
+
 ### Research Group in Computational Linguistics,
 ### Research Institute of Information and Language Processing,
 ### University of Wolverhampton

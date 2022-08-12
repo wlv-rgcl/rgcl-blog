@@ -6,8 +6,7 @@ image: 2017-10-5-jeremy-chelala-summer-internship.jpg
 author: "Jeremy Chelala"
 ---
 
-
-### **My time at RGCL!**
+![Jeremy Chelala]({{ site_url | relative_url}}/medias/2017-10-5-jeremy-chelala-summer-internship.jpg "Jeremy Chelala")
 
 My name is Jeremy Chelala, a Belgian student from the [Université Catholique de Louvain](https://uclouvain.be/fr/index.html) in Belgium, and in the context of my Master course in NLP, I worked as a trainee at RGCL. Thanks to the Erasmus+ programme, I had the chance to work with the RGCL staff members for nine weeks in the summer of 2017. My fields of interest for this internship were automatic simplification and summarization, with a particular focus on the way we can combine techniques from both fields to improve automatic summary generation. During my time at RGCL, I implemented a sentence compressor, working together with simplification and summarization specialists as R. Evans and Dr. C. Orasan, who was my supervisor at RGCL. This compression tool represents a substantial first step in the elaboration of a larger summarization system, which I will present in my Master thesis in 2018.
 

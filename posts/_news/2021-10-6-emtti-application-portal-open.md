@@ -7,6 +7,8 @@ image: 2021-10-6-emtti-application-portal-open.jpg
 
 ## Erasmus Mundus European Master’s in Technology for Translation and Interpreting (EM TTI)
 
+![EMTTI logo]({{ site_url | relative_url}}/medias/2021-10-6-emtti-application-portal-open.jpg "EMTTI logo")
+
 ### Call for applications for start date September 2022
 
 Scholarship application deadline: 15th January 2022

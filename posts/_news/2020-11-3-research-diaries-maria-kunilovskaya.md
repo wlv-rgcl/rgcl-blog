@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "PhD Research Diaries: Dr. Maria Kunilovskaya"
-slug: "Welcome to the first blog of our new series of PhD Research Diaries – as we all work at home during the pandemic, the opportunity for that informal research chat has diminished, if not disappeared. Although perhaps a poor substitute, let us start the research chat with a post from one of our full time PhD students: Dr. Maria Kunilovskaya."
+slug: "First blog of our new series of PhD Research Diaries"
 image: 2020-11-3-research-diaries-maria-kunilovskaya.jpg
 author: "Maria Kunilovskaya"
 ---
+
+Welcome to our new series of PhD Research Diaries – as we all work at home during the pandemic, the opportunity for that informal research chat has diminished, if not disappeared. Although perhaps a poor substitute, let us start the research chat with a post from one of our full time PhD students: Dr. Maria Kunilovskaya.
+
+![Maria Kunilovskaya]({{ site_url | relative_url}}/medias/2020-11-3-research-diaries-maria-kunilovskaya.jpg "Maria Kunilovskaya")
 
 I am engaged in a time- and effort-consuming, but insightful and potentially useful **experiment in human translation quality annotation**.
 

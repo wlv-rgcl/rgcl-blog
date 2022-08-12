@@ -8,6 +8,8 @@ author: "RGCL"
 
 RGCL is delighted to share that a team of our academics and PhD student have recently been awarded the **Best Paper Award** for Qur’an QA shared task 2022. This is at the 5th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT5) at the 13th [Language Resources and Evaluation Conference (LREC 2022)](https://lrec2022.lrec-conf.org/en/). This is the first best paper award for the recently established RIGHT Lab.
 
+![ELRA logo]({{ site_url | relative_url}}/medias/ELRA-logo-purple.jpg "ELRA logo")
+
 The organisers evaluated the papers based on different metrics:
 - Novelty of methods
 - Clear and good presentation of work

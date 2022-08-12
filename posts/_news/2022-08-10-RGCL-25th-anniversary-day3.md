@@ -2,7 +2,7 @@
 layout: post
 title: "RGCL Anniversary Highlights, Day 3"
 slug: "RGCL produces OpenBook through the EC-funded FIRST project "
-image: ""
+image: "2022-08-10-RGCL-25th-anniversary-day3_pict1.jpg"
 author: "RGCL"
 ---
 <h3>RGCL produces OpenBook through the EC-funded FIRST project</h3>

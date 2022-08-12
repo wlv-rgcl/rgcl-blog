@@ -2,7 +2,7 @@
 layout: post
 title: "RGCL’s 25th Anniversary Highlights"
 slug: "RGCL members have won many highly competitive awards in the last two decades."
-image: ""
+image: "2022-08-08-RGCL-25th-anniversary-day1.jpg"
 author: "RGCL"
 ---
 

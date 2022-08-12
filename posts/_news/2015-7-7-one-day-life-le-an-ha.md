@@ -6,6 +6,8 @@ image: 2015-7-7-one-day-life-le-an-ha.jpg
 author: "Le An Ha"
 ---
 
+![An's portrait]({{ site_url | relative_url}}/medias/2015-7-7-one-day-life-le-an-ha.jpg "An's portrait")
+
 My name is Le An Ha. I am a senior lecturer at the RGCL. I came to Wolverhampton in 2000 from Vietnam to pursue a PhD. Since finishing my PhD, I have been working at the research group until now (2015). My son was born here. So if you ask me whether the RGCL is a good place to work, or whether Wolverhampton is a good place to live, you have your answers already.
 
 My main duty is to develop software that uses Natural Language Processing (NLP) for a variety of applications, including language identification, part-of-speech tagging, parsing, automatic MCQ question generation, automatic scoring, semantic search etc. It seems a lot, but actually all of these applications are built using a few fundamental NLP technologies. My day begins at around 9:30am, and finishes whenever I feel I need to stop (i.e. around 7pm, and that includes lunch break and gym break). During the day, I write and test programs, collect data, read papers, write papers, develop research proposals, attend seminars and so on. I get pretty excited when getting good results, and a little bit down otherwise. Working in NLP is working with human creativity: we never know with 100% certainty what a person would say/write next. I also get excited when reading an interesting piece of research, and I get eager to try it out. During term time, I also give a few lectures about things that I find extremely useful in the field.
