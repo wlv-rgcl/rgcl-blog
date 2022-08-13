@@ -20,6 +20,7 @@ permalink: honorary-members
 - <b>Prof Jean-Pierre Colson</b>, Université catholique de Louvain
 - <b>Ms Marie Escribe</b>, University of Wolverhampton
 - <b>Ms Anna Beatriz Dimas Furtado</b>, University of Wolverhampton
+- <b>Ms Gabriela Gonzalez</b>, eTRAD
 - <b>Ms Amal Haddad Haddad</b>, Universidad de Granada
 - <b>Prof Eduard Hovy</b>, Carnegie Mellon University
 - <b>Ms Mina Ilieva</b>, CEO of Mitra Translations
