@@ -28,6 +28,7 @@ permalink: honorary-members
 - <b>Prof Sandra Kuebler</b>, Indiana University Bloomington
 - <b>Prof William D. Lewis</b>, University of Washington, former Principal Technical Program Manager at Microsoft
 - <b>Dr Suresh Manandhar</b>, Honorary Chair in Artificial Intelligence, Madan Bhandari University of Science and Technology
+- <b>Dr Nicolas Nicolov</b>, Head of AI/ML, Avalara Inc.
 - <b>Prof María Teresa Martín Valdivia</b>, University of Jaen, Deputy Vice Chancellor (Vicerrectora)
 - <b>Prof Tony McEnery</b>, Distinguished Professor of University of Lancaster, Fellow of the Academy of Social Sciences and of the Royal Society of Arts, Ex Interim Chief Executive ESRC, Ex Director or Research ESRC, Ex-Director of Research AHRC 
 - <b>Prof Johanna Monti</b>,Department of Literary, Linguistic and Comparative Studies at the University of Naples "L'Orientale"
