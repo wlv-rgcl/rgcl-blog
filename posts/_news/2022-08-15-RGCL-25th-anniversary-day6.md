@@ -2,7 +2,7 @@
 layout: post
 title: "RGCL Anniversary Highlights, Day 6"
 slug: "Hanks’ Pattern Dictionary of English Verbs"
-image: "2022-08-15-RGCL-25th-anniversary-day5_pict1.png"
+image: "2022-08-15-RGCL-25th-anniversary-day6_pict1.png"
 author: "RGCL"
 ---
 
