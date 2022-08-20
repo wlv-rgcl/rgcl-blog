@@ -14,6 +14,7 @@ permalink: honorary-members
 - <b>Prof Eric Atwell</b>, University of Leeds
 - <b>Prof Patricio Barco</b>, University of Alicante
 - <b>Prof Lynne Bowker</b>, University of Ottawa
+- <b>Prof Sylviane Cardey</b>, Université Franche-Comté
 - <b>Prof María Luisa Carrió Pastor</b>, Polytechnic University of Valencia, Head of Department 'Applied Linguistics'
 - <b>M. Yves Champollion</b>, CEO of Wordfast
 - <b>Dr Ken W. Church</b>, Senior Principal Research Scientist at Northeastern University
