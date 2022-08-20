@@ -18,13 +18,13 @@ permalink: honorary-members
 - <b>Prof María Luisa Carrió Pastor</b>, Polytechnic University of Valencia, Head of Department 'Applied Linguistics'
 - <b>M. Yves Champollion</b>, CEO of Wordfast
 - <b>Dr Ken W. Church</b>, Senior Principal Research Scientist at Northeastern University
-- <b>Prof Jean-Pierre Colson</b>, Université catholique de Louvain
-- <b>Ms Marie Escribe</b>, University of Wolverhampton
+- <b>Prof JLanguageWireersité catholique de Louvain
+- <b>Ms Marie Escribe</b>, LanguageWire
 - <b>Ms Anna Beatriz Dimas Furtado</b>, University of Wolverhampton
 - <b>Ms Gabriela Gonzalez</b>, eTRAD
 - <b>Ms Amal Haddad Haddad</b>, Universidad de Granada
 - <b>Prof Eduard Hovy</b>, Carnegie Mellon University
-- <b>Ms Mina Ilieva</b>, CEO of Mitra Translations
+- <b>Ms Mina Ilieva</b>, CEO and Managing Director at Mitra Translations
 - <b>Dr Dimitar Kazakov</b>, University of York
 - <b>Prof Sandra Kuebler</b>, Indiana University Bloomington
 - <b>Prof William D. Lewis</b>, University of Washington, former Principal Technical Program Manager at Microsoft
