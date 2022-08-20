@@ -18,7 +18,7 @@ permalink: honorary-members
 - <b>Prof María Luisa Carrió Pastor</b>, Polytechnic University of Valencia, Head of Department 'Applied Linguistics'
 - <b>M. Yves Champollion</b>, CEO of Wordfast
 - <b>Dr Ken W. Church</b>, Senior Principal Research Scientist at Northeastern University
-- <b>Prof Jean-Pierre Colson, Université catholique de Louvain
+- <b>Prof Jean-Pierre Colson</b>, Université catholique de Louvain
 - <b>Ms Marie Escribe</b>, LanguageWire
 - <b>Ms Anna Beatriz Dimas Furtado</b>, University of Wolverhampton
 - <b>Ms Gabriela Gonzalez</b>, eTRAD
