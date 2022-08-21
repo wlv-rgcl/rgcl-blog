@@ -42,6 +42,11 @@ As described on the Cambridge University Press webpage:
 
 > “Natural Language Engineering meets the needs of professionals and researchers working in all areas of computerised language processing, whether from the perspective of theoretical or descriptive linguistics, lexicology, computer science or engineering. Its aim is to bridge the gap between traditional computational linguistics research and the implementation of practical applications with potential real-world use. As well as publishing research articles on a broad range of topics - from text analysis, machine translation, information retrieval and speech analysis and generation to integrated systems and multi modal interfaces - it also publishes special issues on specific areas and technologies within these topics, an industry watch column and book reviews.”
 
-We are grateful to RGCL’s dedicated and hardworking JNLE editorial team, including PhD students Rocío Caro Quintana, Maria Kunilovskaya, Isuri Anuradha, Kanishka Silva, Maria Carmela Cariello, Sandra Elfiky and Branislava Šandrih.
+We are grateful to RGCL’s dedicated and hardworking JNLE editorial team,
+including Rocío Caro Quintana, Maria Kunilovskaya, Marie Escribe, Isuri
+Anuradha, Kanishka Silva, Maria Carmela Cariello, Sandra Elfiky and Branislava
+Šandrih. We have recently welcome the following new editorial assistants:
+Dayana Abuin Rios, Khadija Ait ElFqih, Anastasia Bezobrazova, Amal El Fahmat,
+Amal Haddad Haddad, Lilit Kharatyan, Gabriela Llull and Daria Sokova.
 
 We are also grateful to Dr Sara Moze and April Harper for their editorial assistance on JNLE for many years.
