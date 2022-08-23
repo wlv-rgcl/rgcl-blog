@@ -29,6 +29,7 @@ permalink: honorary-members
 - <b>Dr Dimitar Kazakov</b>, University of York
 - <b>Prof Sandra Kuebler</b>, Indiana University Bloomington
 - <b>Prof William D. Lewis</b>, University of Washington, former Principal Technical Program Manager at Microsoft
+- <b>Dr Victoria López</b>, Public University of Navarra
 - <b>Dr Suresh Manandhar</b>, Honorary Chair in Artificial Intelligence, Madan Bhandari University of Science and Technology
 - <b>Dr Nicolas Nicolov</b>, Head of AI/ML, Avalara Inc.
 - <b>Prof Selda Ozdemir</b>, Head of Department of Special Education, Chair of Teaching Children with Autism Spectrum Disorders Division, Hacettepe University
