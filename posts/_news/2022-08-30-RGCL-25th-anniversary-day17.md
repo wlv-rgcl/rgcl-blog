@@ -45,4 +45,4 @@ Eminent keynote speakers at our co-organised conferences have included:
 
 Our continued involvement in and organising of these vibrant research events is
 a key factor in RGCL’s international standing. We look forward to seeing you
-all at a conference soon!``
+all at a conference soon!
