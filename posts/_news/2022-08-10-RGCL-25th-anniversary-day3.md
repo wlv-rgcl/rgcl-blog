@@ -17,7 +17,7 @@ precision. The project, which had six international and two UK partners, was a
 resounding success and brought half a million euros of EC funding to the
 University of Wolverhampton. 
 
-![Group photo]({{ site_url | relative_url}}/medias/2022-08-10-RGCL-25th-anniversary-day3_pict1.jpg "Some of the members of the FIRST project consortium.")
+![Group photo]({{ site_url | relative_url}}/medias/2022-08-10-RGCL-25th-anniversary-day3_pict1.jpg "Some of the members of the FIRST project consortium.")  
 *Some of the members of the FIRST project consortium, including RGCL’s Iustin Dornescu, Constantin Orasan, Richard Evans, Victoria Yaneva and Prof Ruslan Mitkov (who is taking the photo).*
 
 RGCL researcher of 24 years, Dr Richard Evans, writes:
