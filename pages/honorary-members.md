@@ -12,7 +12,7 @@ permalink: honorary-members
 <h3>List of RGCL honorary members:</h3>
 - <b>Prof Cengiz Acarturk</b>, Jagiellonian University, Poland & Orta Dogu Teknik Universitesi, Turkey 
 - <b>Prof Eric Atwell</b>, University of Leeds
-- <b>Dr Wilker Ferreira Aziz</b>, ILLC, University of Amsterdam
+- <b>Dr Wilker Aziz</b>, ILLC, University of Amsterdam
 - <b>Prof Patricio Barco</b>, University of Alicante
 - <b>Prof Lynne Bowker</b>, University of Ottawa
 - <b>Prof Sylviane Cardey</b>, Université Franche-Comté
@@ -31,15 +31,15 @@ permalink: honorary-members
 - <b>Prof Sandra Kuebler</b>, Indiana University Bloomington
 - <b>Prof William D. Lewis</b>, University of Washington, former Principal Technical Program Manager at Microsoft
 - <b>Dr Victoria López</b>, Public University of Navarra
-- <b>Dr Suresh Manandhar</b>, Honorary Chair in Artificial Intelligence, Madan Bhandari University of Science and Technology
 - <b>Prof Ricardo Mairal</b>, Rector of the Spanish University for e-Education
-- <b>Dr Nicolas Nicolov</b>, Head of AI/ML, Avalara Inc.
-- <b>Prof Selda Ozdemir</b>, Head of Department of Special Education, Chair of Teaching Children with Autism Spectrum Disorders Division, Hacettepe University
+- <b>Dr Suresh Manandhar</b>, Honorary Chair in Artificial Intelligence, Madan Bhandari University of Science and Technology
 - <b>Prof María Teresa Martín Valdivia</b>, University of Jaen, Deputy Vice Chancellor (Vicerrectora)
 - <b>Prof Tony McEnery</b>, Distinguished Professor of University of Lancaster, Fellow of the Academy of Social Sciences and of the Royal Society of Arts, Ex Interim Chief Executive ESRC, Ex Director or Research ESRC, Ex-Director of Research AHRC 
 - <b>Prof Johanna Monti</b>,Department of Literary, Linguistic and Comparative Studies at the University of Naples "L'Orientale"
 - <b>Prof Andrés Montoyo Guijarro</b>, University of Alicante, ex Dean of the School of Computer Science
 - <b>Prof Rafael Muñoz Guillena</b>, University of Alicante, ex Deputy Vice Chancellor (Vicerrector)
+- <b>Dr Nicolas Nicolov</b>, Head of AI/ML, Avalara Inc.
+- <b>Prof Selda Ozdemir</b>, Head of Department of Special Education, Chair of Teaching Children with Autism Spectrum Disorders Division, Hacettepe University
 - <b>Prof Javier Perez Guerra</b>, University of Vigo
 - <b>Dr Rozane Rebechi</b>, Universidad Rio Grande do Sur
 - <b>Prof Nasredine Semmar</b>, CEA LIST
