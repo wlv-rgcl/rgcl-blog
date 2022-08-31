@@ -107,7 +107,8 @@ Dr Richard Evans compiled data from collaborations involving RGCL members in the
 [![RGCL publications graph]({{ site_url | relative_url }}/medias/2022-08-31-RGCL-25th-anniversary-day18_pict2.jpg)]({{ site_url | relative_url }}/medias/2022-08-31-RGCL-25th-anniversary-day18_pict2.png "RGCL publications graph")  
 *Graph displaying collaborations involving RGCL members in 1995-2016. Click on picture to enlarge.*  
 
-As one can see, RGCL is a research group that has always been very much open to collaborating with the research community!
+Since 2016, RGCL has changed considerably and many more recent collaborations have occurred.
+However, as one can see from the graph above, RGCL is a research group that has always been very much open to collaborating with the research community!
 
 We regularly receive enquiries from external, industry-based professionals on potential collaborations, such as those of [Translution and NBME](https://rgcl.wlv.ac.uk/news/2022-08-23-RGCL-25th-anniversary-day12/), as well as newer and budding collaborations with e.g. NHS medical staff looking to utilise Machine Learning in their day-to-day test result processing.
 
