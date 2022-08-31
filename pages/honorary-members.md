@@ -12,6 +12,7 @@ permalink: honorary-members
 <h3>List of RGCL honorary members:</h3>
 - <b>Prof Cengiz Acarturk</b>, Jagiellonian University, Poland & Orta Dogu Teknik Universitesi, Turkey 
 - <b>Prof Eric Atwell</b>, University of Leeds
+- <b>Dr Wilker Ferreira Aziz</b>, ILLC, University of Amsterdam
 - <b>Prof Patricio Barco</b>, University of Alicante
 - <b>Prof Lynne Bowker</b>, University of Ottawa
 - <b>Prof Sylviane Cardey</b>, Université Franche-Comté
@@ -31,6 +32,7 @@ permalink: honorary-members
 - <b>Prof William D. Lewis</b>, University of Washington, former Principal Technical Program Manager at Microsoft
 - <b>Dr Victoria López</b>, Public University of Navarra
 - <b>Dr Suresh Manandhar</b>, Honorary Chair in Artificial Intelligence, Madan Bhandari University of Science and Technology
+- <b>Prof Ricardo Mairal</b>, Rector of the Spanish University for e-Education
 - <b>Dr Nicolas Nicolov</b>, Head of AI/ML, Avalara Inc.
 - <b>Prof Selda Ozdemir</b>, Head of Department of Special Education, Chair of Teaching Children with Autism Spectrum Disorders Division, Hacettepe University
 - <b>Prof María Teresa Martín Valdivia</b>, University of Jaen, Deputy Vice Chancellor (Vicerrectora)
