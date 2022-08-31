@@ -5,8 +5,6 @@ slug: "RGCL produces OpenBook through the EC-funded FIRST project "
 image: "2022-08-10-RGCL-25th-anniversary-day3_pict1.jpg"
 author: "RGCL"
 ---
-<h3>RGCL produces OpenBook through the EC-funded FIRST project</h3>
-
 
 Between the years of 2011 and 2014, RGCL coordinated an EC FP7-ICT project
 worth more than €2.5 million called *[FIRST](http://clg.wlv.ac.uk/projects/FIRST/)* (a Flexible Interactive Reading
