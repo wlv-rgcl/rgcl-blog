@@ -21,7 +21,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # Limit to latest news (e.g. 5 = only 5 latest ones)
-news-count: 5
+news-count: 10
 
 defaults:
   - scope:
