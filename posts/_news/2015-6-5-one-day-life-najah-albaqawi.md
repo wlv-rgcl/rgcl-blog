@@ -6,7 +6,7 @@ image: "2015-6-5-one-day-life-najah-albaqawi.png"
 author: "Najah Albaqawi"
 ---
 
-![Najah's desk]({{ site_url | relative_url}}/medias/2022-08-12-RGCL-25th-anniversary-day5_pict1.png "Najah's desk")
+![Najah's desk]({{ site_url | relative_url}}/medias/2015-6-5-one-day-life-najah-albaqawi.png "Najah's desk")
 
 Alsalam Alykom, my name is Najah Albaqawi. I am a Saudi PhD student in computational linguistics. I earned my Bachelor’s Degree in English Language in 2006 from King Faisal University. Since graduating, I have worked for three years as an English assistant teacher and in 2012 I obtained my master’s degree in Applied Linguistics from the University of Al-Emam Mohammed Ibn Saud. These experiences have made me really want to work with new people in new places, which is why I chose to pursue a doctoral degree in the UK. Fortunately for me, the University of Wolverhampton is one of the best in the UK for my subject area.
 
