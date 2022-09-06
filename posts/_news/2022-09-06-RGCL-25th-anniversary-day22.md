@@ -2,7 +2,7 @@
 layout: post
 title: "RGCL Anniversary Highlights, Day 22"
 slug: "The social side of RGCL"
-image: "2022-09-06-RGCL-25th-anniversary-day22_pict1.jpg"
+image: "2022-09-06-RGCL-25th-anniversary-day22_pict4.jpg"
 author: "RGCL"
 ---
 
