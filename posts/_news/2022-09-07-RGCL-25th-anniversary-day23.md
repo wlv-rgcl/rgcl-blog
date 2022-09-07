@@ -11,10 +11,8 @@ our case, it is. Over the years, RGCL has attracted, hosted, trained and
 supported dozens of talented women, and in this post we’d like to celebrate
 their journeys and achievements.
 
-#### Current women of RGCL
-
+### Current women of RGCL
 <img style="float: right; margin:30px 30px 30px 30px" src="{{ site_url | relative_url }}/medias/2022-09-07-RGCL-25th-anniversary-day23_pict1.jpg">
-<p>&nbsp;</p>
 Beginning with our current and most senior women members, we are honoured to
 have **Prof Gloria Corpas Pastor** as a Visiting Professor at RGCL. She is also
 Professor of Translation and Interpreting of the University of Malaga, Spain,
@@ -159,7 +157,9 @@ Maria Carmela (**Milena**), another of our PhD students, has added:
 > assistant for the Journal of Natural Language Engineering.”
 
 
-#### Past women of RGCL
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+### Past women of RGCL
 
 There are almost too many to name, but we would like to pay tribute to some of
 the amazing women who have paved the way for those of us currently in the
@@ -177,6 +177,7 @@ expert in bidding and project management. In particular, she is recognised for
 her knowledge of Erasmus+ strategic partnerships, with a 100% success rate in
 her last five proposals submitted to the UK National Agency.
 
+<p>&nbsp;</p>
 Other fantastic former admin team members are **Erin Stokes**, **Helen Williams**, and **Stephanie Kyle**, to name just a few.
 
 Then there are our former PhD students and staff members: **Laura Hasler**,
