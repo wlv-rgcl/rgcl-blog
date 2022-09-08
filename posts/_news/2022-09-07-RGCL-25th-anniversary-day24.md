@@ -112,7 +112,7 @@ projects and have [my own GitHub repository](https://github.com/dinel). 
 
 <img style="float: left; margin:30px 30px 30px 30px" src="{{ site_url | relative_url }}/medias/2022-09-08-RGCL-25th-anniversary-day24_pict5.jpg">
 Richard joined RGCL in 1998, where his first task was to implement Jerry
-Hobbs’s (1978) approach to pronoun resolution in Prolog (this presented quite a
+Hobbs’s (1978) approach to pronoun resolution in Prolog. This presented quite a
 challenge for someone who was not well-versed in Prolog as the algorithm
 requires breadth-first, rather than depth-first, traversal of parse trees to
 identify the antecedents of pronouns (Richard notes that it was down to
