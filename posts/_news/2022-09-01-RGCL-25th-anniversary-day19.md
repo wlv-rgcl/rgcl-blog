@@ -9,7 +9,7 @@ author: "RGCL"
 In our highlight series so far, we talked about awards, news coverage,
 research funding and projects, as well as the numerous collaborations RGCL has
 had throughout the years. In line with research excellence from our group, we
-could not not to talk about the multiple tools, datasets and demos RGCL has
+could not not talk about the multiple tools, datasets and demos RGCL has
 produced so far.
 
 In a dedicated section of our website, called "**[Tools, Demos & Resources](https://rgcl.wlv.ac.uk/resources)**", we indexed about
