@@ -183,10 +183,10 @@ Other fantastic former admin team members are **Erin Stokes**, **Helen Williams*
 Then there are our former PhD students and staff members: **Laura Hasler**,
 **Georgiana Marsic**, **Sanja Stajner**, **Victoria Yaneva**, **Lucia Specia**,
 **Luz Rello**, **Irina Temnikova**, **Natalia Konstantinova**, **Natalia
-(Natasha) Ponomareva**, **Miranda Chong**, **Andrea Varga**, **Catalina
-Barbu**, **Yvonne Skalban**, **Jane Bradbury**, **Shiva Taslimipoor**, **Najah
-Albaqawi**, and **Hanna Bechara**, amongst others, all of whom have excelled in
-their fields and are a credit to the Group.
+(Natasha) Ponomareva**, **Miranda Chong**, **Andrea Varga**, **Vinita Nahar**,
+**Catalina Barbu**, **Yvonne Skalban**, **Jane Bradbury**, **Shiva
+Taslimipoor**, **Najah Albaqawi**, and **Hanna Bechara**, amongst others, all
+of whom have excelled in their fields and are a credit to the Group.
 
 <img style="float: right; margin:30px 30px 30px 30px" src="{{ site_url | relative_url }}/medias/2022-09-07-RGCL-25th-anniversary-day23_pict11.jpg">
 <p>&nbsp;</p>
