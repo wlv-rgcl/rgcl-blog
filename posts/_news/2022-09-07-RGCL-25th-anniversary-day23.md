@@ -190,14 +190,14 @@ of whom have excelled in their fields and are a credit to the Group.
 
 <img style="float: right; margin:30px 30px 30px 30px" src="{{ site_url | relative_url }}/medias/2022-09-07-RGCL-25th-anniversary-day23_pict11.jpg">
 <p>&nbsp;</p>
-**Victoria Yaneva**, who originally came to RGCL as an Erasmus Mundus exchange
-student, and then went on to be a PhD student, an early-career researcher, and
-finally a lecturer with us, said:
+**Victoria Yaneva**, who originally came to RGCL as a coreference annotator on
+the FIRST project, and then went on to be a PhD student, an early-career
+researcher, and finally a lecturer with us, said:
 > “It was inspiring to see so many women at RGCL who excel in a traditionally
 > male-dominated area. Their example and support has been crucial for the
 > success of many PhD students and early career researchers.” 
 
 Victoria’s work was covered by [ITV
 news](https://rgcl.wlv.ac.uk/news/2022-08-11-RGCL-25th-anniversary-day4/) while
-she was at RGCL, and Victoria is now Principal Data Scientist at the National
+she was at RGCL, and Victoria is now Senior Data Scientist at the National
 Board of Medical Examiners in the US.
