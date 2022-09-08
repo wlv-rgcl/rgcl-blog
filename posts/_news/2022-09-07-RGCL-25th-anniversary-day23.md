@@ -113,9 +113,9 @@ Finally, we are so thrilled to have our fantastic women PhD students, **Maria**,
 <p>&nbsp;</p>
 **Rocío**, who is undertaking a PhD in Translation Technologies, said of RGCL: 
 > “I am Rocío Caro Quintana and I am currently a PhD student. I studied
-> Translation and Interpreting in Malaga and now am doing my PhD in Translation
+> Translation and Interpreting in Malaga and now I am doing my PhD in Translation
 > Technologies. I am also working at JNLE and helping with the organisation of
-> a few conferences like NeTTT or RANLP. I am very thankful to all the woman
+> a few conferences like NeTTT or RANLP. I am very thankful to all the women
 > that have been part of RGCL for helping me and creating a space where we feel
 > included.”
 
