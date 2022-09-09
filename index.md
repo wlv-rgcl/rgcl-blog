@@ -38,7 +38,7 @@ If you are interested in working with us, please contact us using the <a href="#
 
 <br />
 
-<header class="major">
+<header id="quotes" class="major">
 <h2>What others say about us</h2>
 </header>
 
