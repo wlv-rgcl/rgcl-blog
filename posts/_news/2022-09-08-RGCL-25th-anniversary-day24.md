@@ -171,3 +171,6 @@ RGCL simply wouldn’t exist without these influential and founding members of
 the Group, and we’re proud to have kept them for such a long time. Most of all,
 we are grateful for all of their hard work, commitment and dedication over the
 past 25 years!
+
+![RGCL Founders]({{ site_url | relative_url }}/medias/2022-09-08-RGCL-25th-anniversary-day24_pict7.jpg "RGCL Founders")  
+Laura Hasler, Le An Ha, Ruslan Mitkov, Constantin Orasan, Catalina Barbu, and Richard Evans
