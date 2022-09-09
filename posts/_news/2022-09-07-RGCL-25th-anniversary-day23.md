@@ -190,9 +190,15 @@ of whom have excelled in their fields and are a credit to the Group.
 
 <img style="float: right; margin:30px 30px 30px 30px" src="{{ site_url | relative_url }}/medias/2022-09-07-RGCL-25th-anniversary-day23_pict11.jpg">
 <p>&nbsp;</p>
-**Victoria Yaneva**, who originally came to RGCL as a coreference annotator on
-the FIRST project, and then went on to be a PhD student, an early-career
-researcher, and finally a lecturer with us, said:
+**Victoria Yaneva** was originally a Master's student at the University of Plovdiv and, in
+November 2011, when Prof Mitkov was receiving his first Doctor Honoris Causa
+award there, he sought to recruit a Master's student with knowledge of
+Psychology and fluency in Bulgarian to complete coreference annotation for the
+[FIRST project](https://rgcl.wlv.ac.uk/news/2022-08-10-RGCL-25th-anniversary-day3/). Victoria was the clear winner at the interviews, and after two
+months of work at RGCL, she had impressed the project leads to such an extent
+that she was offered a PhD studentship with the Group. 
+After her PhD, she went to be an early-career researcher, and finally a
+lecturer with us. Here is what she said:
 > “It was inspiring to see so many women at RGCL who excel in a traditionally
 > male-dominated area. Their example and support has been crucial for the
 > success of many PhD students and early career researchers.” 
