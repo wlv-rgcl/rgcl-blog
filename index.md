@@ -45,6 +45,14 @@ If you are interested in working with us, please contact us using the <a href="#
 <b>Prof Eduard Hovy, Carnegie Mellon University:</b>
   >"Prof Mitkov has a very strong record of turning out people as well as ideas"
 
+<b>Prof Ricardo Mairal, Rector of the Spanish University for e-Education:</b>
+> The department has unquestionable international recognition thanks to the
+> excellent leadership Prof Mitkov has always brought. Moreover, the research
+> carried out at the institute, which has always been led by admirable accuracy
+> and the utmost scientific coherence, has served as a source of inspiration
+> for many researchers that had the chance of learning and participating on the
+> many international projects that were conducted.
+
 <b>Ted Marshall, Translution CEO:</b>
   > "This is the most competent and most successful research group I have ever worked with… and the only one which has never missed a deadline…"
 
