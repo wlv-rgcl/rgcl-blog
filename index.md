@@ -74,4 +74,7 @@ If you are interested in working with us, please contact us using the <a href="#
 <b>Prof Rafael Muñoz Guillena, ex Deputy Vice Chancellor (Vicerrector) at the University of Alicante:</b>
   > "Prof Mitkov has grown a world-leading group delivering cutting-edge research. It is one of the best in the world."
 
+<b>Prof Tony McEnery, Distinguished Professor of University of Lancaster, Ex Interim Chief Executive ESRC, Ex Director or Research ESRC, Ex-Director of Research AHRC:</b>
+  > "Prof Mitkov is leading a fantastic team that is doing fantastic work."
+
 <a href="{{ site.url | relative_url }}/honorary-members" class="button special fit small">List of RGCL honorary members</a>
