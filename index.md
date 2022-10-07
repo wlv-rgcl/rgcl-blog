@@ -36,4 +36,6 @@ Most of the research is carried out as part of externally funded projects. If yo
 If you are interested in working with us, please contact us using the <a href="#contact" class="scrolly">information below</a>.
 </p>
 
-<a href="{{ site.url | relative }}/what-others-say-about-us" class="button next scrolly">Read what others say about us</a>
+<a href="{{ site.url | relative_url }}/what-others-say-about-us" class="button next scrolly">Read what others say about us</a>
+
+<a href="{{ site.url | relative_url }}/honorary-members" class="button next scrolly">List of RGCL honorary members</a>
