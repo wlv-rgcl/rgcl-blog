@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+	<title>PhD Research Diaries: Dr. Maria Kunilovskaya | RGCL</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="/assets/css/main.css" />
+	<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+
+  <!-- Twitter cards -->
+  <meta name="twitter:site"    content="@RGCL_WLV">
+  <meta name="twitter:creator" content="@Maria Kunilovskaya">
+  <meta name="twitter:title"   content="PhD Research Diaries: Dr. Maria Kunilovskaya">
+
+  
+  <meta name="twitter:description" content="First blog of our new series of PhD Research Diaries">
+  
+
+  
+  <meta name="twitter:card"  content="summary_large_image">
+  <meta name="twitter:image" content="https://rgcl.wlv.ac.uk/medias/2020-11-3-research-diaries-maria-kunilovskaya.jpg">
+  <!-- 
+  <!-- end of Twitter cards -->
+</head>
+
+
+  <body>
+
+    <!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<!-- <header id="header"> -->
+<header id="header">
+	<a href="https://rgcl.wlv.ac.uk//" class="logo"><strong>RGCL</strong> <span>University of Wolverhampton</span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+</header>
+
+<!-- Menu -->
+<nav id="menu">
+	<ul class="links">
+        
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="https://rgcl.wlv.ac.uk//">Home</a></li>
+	    	
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="https://rgcl.wlv.ac.uk/news">News</a></li>
+		    
+		
+		    
+		        <li><a href="https://rgcl.wlv.ac.uk/masters-and-phd-studies">Masters & PhD Studies</a></li>
+		    
+		
+		    
+		
+		    
+		        <li><a href="https://rgcl.wlv.ac.uk/seminars-series">Seminars Series</a></li>
+		    
+		
+		    
+		        <li><a href="https://rgcl.wlv.ac.uk/research/current-projects">Research Projects</a></li>
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="https://rgcl.wlv.ac.uk/resources">Tools, Demos & Resources</a></li>
+		    
+		
+	</ul>
+	<ul class="actions vertical">
+    <!-- <li><a href="https://www.wlv.ac.uk/research/institutes-and-centres/riilp---research-institute-of-information-and-language-processing/research-group-in-computational-linguistics/" class="button fit small" target='_blank'>Visit our website</a></li> -->
+    <li><a href="https://www.wlv.ac.uk/research/institutes-and-centres/riilp---research-institute-of-information-and-language-processing/research-group-in-computational-linguistics/" class="button special" target='_blank'>Our university webpage</a></li>
+	</ul>
+</nav>
+ 
+
+    <!-- Main -->
+    <div id="main" class="alt">
+
+      <!-- One -->
+      <section id="one">
+        <div class="inner">
+          <header class="major">
+            <h1>PhD Research Diaries: Dr. Maria Kunilovskaya</h1>
+          </header>
+          
+          <p>Published on Nov, 3 2020 by Maria Kunilovskaya.</p>
+          <p>
+            
+            <h3>First blog of our new series of PhD Research Diaries</h3>
+            <br />
+            
+            <!--  -->
+            <!-- <span class="image fit"><img src="/medias/2020-11-3-research-diaries-maria-kunilovskaya.jpg" alt="" /></span> -->
+            <!--  -->
+            <p>Welcome to our new series of PhD Research Diaries – as we all work at home during the pandemic, the opportunity for that informal research chat has diminished, if not disappeared. Although perhaps a poor substitute, let us start the research chat with a post from one of our full time PhD students: Dr. Maria Kunilovskaya.</p>
+
+<p><img src="/medias/2020-11-3-research-diaries-maria-kunilovskaya.jpg" alt="Maria Kunilovskaya" title="Maria Kunilovskaya" /></p>
+
+<p>I am engaged in a time- and effort-consuming, but insightful and potentially useful <strong>experiment in human translation quality annotation</strong>.</p>
+
+<p>(It is a pity I cannot discuss it over lunch! No technical progress in Zoom, MS teams or Skype will be able to compensate for the opportunity to ruminate the research ideas over lunch and for the motivations of the office life. Let’s see whether blogging can be helpful.)</p>
+
+<p>One of the problems I faced in my attempts to build a quality estimation system for human translation is the lack of a reliable and available gold standard.</p>
+
+<p>Which quality labels are most useful in a machine learning setting? But more importantly how do you get them?</p>
+
+<h3 id="1-previous-attempts">1. Previous attempts</h3>
+
+<p>I started my experiments with implementing two of the possible solutions:</p>
+
+<p><strong>1.1 ‘Good’ vs. ‘Bad’.</strong> I used graded exam translations produced by professional translation programmes in several universities as well as data from a number of translation contests to build a quality annotated dataset, which featured <strong>binary labels</strong> (‘good’ vs. ‘bad’). We assumed that a binary classification into sharply opposed classes can be an easy task for a reasonably sophisticated learning setup. The improved dataset counted more than 400 texts of about 400 words each. Our best results on the proven translationese features reached accuracy of 67% (with the chance level as 55%). See details in Kunilovskaya, M., &amp; Lapshinova-Koltunski, E. (2019). Translationese Features as Indicators of Quality in English-Russian Human Translation. In Proceedings of the 2nd Workshop on Human-Informed Translation and Interpreting Technology (HiT-IT 2019) (pp. 47–56).</p>
+
+<p>I also tried other approaches to text representation, ranging from tf-idf scaled character trigrams (and other bag-of-word representations) to get the accuracy of good-bad classification of 68% and bilingual vectors learnt on lemmatised corpora + Siamese architecture of bidirectional LSTM to feed the averaged vectors for the source and target texts. The latter experiment yielded the accuracy of 64%</p>
+
+<p>Those efforts indicated that translation quality is either extremely difficult to learn or that I might have a problem with the labels in the dataset or the binary setup in general. The latter option sprang to mind after I verified the labels by re-annotating 20% of the data and removing a few texts that caused disagreements.</p>
+
+<p><strong>1.2 Professional vs Student.</strong> Another way to approach the lack of reliable labels is to utilise the natural classes of texts, which can be assumed to reflect their quality (aka distant supervision). A typical case of such classes is (well-published) <strong>professional and learner</strong> translations. On the same set of morphosyntactic indicators of translationese we got the accuracy of 78% (see details in Kunilovskaya, M., &amp; Lapshinova-Koltunski, E. (2020). Lexicogrammatic Translationese across Two Targets and Competence Levels. Proceedings Of the 12th Conference on Language Resources and Evaluation (LREC 2020), 4102–4112). While this is an impressive achievement, given our trials with good-bad labels, we need to accept that professionalism is an adequate proxy for translation quality and that the student and professional collections do not differ much in terms of register. By assuming that professionalism is quality in this setting we effectively ignore the many factors associated with text production for students and professional (levels of responsibility, time constraints, levels of stress, extralinguistic motivations and situational conventions).</p>
+
+<h3 id="2-towards-a-continuous-sentence-level-quality-score">2. Towards a continuous sentence-level quality score</h3>
+
+<p>The current annotation experiment aims to produce human judgments about translation quality in the Direct Assessment (DA) setting popular today in the field of machine translation (MT). It is going to be compared with the existing score based on error annotation to try and offer a triangulation of the human quality estimates.</p>
+
+<p><strong>(1) Annotator teams.</strong> The experiments involves 12 volunteers who are final year linguistics degree BA students in a Russian university. All participants have Russian L1 and English at B2 level; they are evaluating translations from English into Russian. They are assigned to <strong>two teams</strong>. Each team includes a group of <strong>three translators</strong>, i.e. students who have attended theoretical and practical courses in translation studies and <strong>three linguists</strong>, i.e. students who major in English teaching or contrastive linguistics. This profiles are supposed to give insights into the impact of (almost complete) translation education in the task of evaluating translation quality.</p>
+
+<p><strong>(2) Data.</strong> The student translations come from the error-annotated subset of Russian Learner Translator Corpus (<a href="https://www.rus-ltc.org/search">www.rus-ltc.org</a>) limited to general domain mass-media texts. Error annotation is used to produce a quality score to cross-validate the annotations in the current experiment. Getting the quality score from error annotations is again a matter of subjectively assigned weights, unfortunately. We decided to go with the following procedure: we calculate a translation’s negative score for language and content errors assigning the following weights to the attributes: ‘minor’: 10, ‘major’: 20, ‘critical’: 30, ‘kudo’: -10. To get the quality score for a text we subtract this score from a 100. To get one quality score for a target text we average the two scores for fluency and accuracy based on the number and weights for language and content errors.</p>
+
+<p>For annotation we offer texts that come from the extreme good-bad categories to provide sharp contrasts and clear quality distinctions in the data.</p>
+
+<p><strong>(3) Results of the calibration session.</strong> The experiments started in early October with a series of enlightening calibration sessions. Inspired by the reasoning in Graham et al (2013, 2017) and Deams et al (2013), where they suggest that fluency should be judged independently of adequacy/accuracy, we arranged for the annotators to evaluate translations in two conditions: as a text in the target language, independent of its source (fluency aspect of translation quality) and in the bilingual setting where the annotators are asked to compare the source segment and the target segment.</p>
+
+<p>However, the results of the calibration session indicated that the participants struggle with separating the two aspects. In particular, even in the second round of annotation following an extended session analysing the oddities in the scores assigned in the first round, the inter-rater agreement was very low and the average annotated scores were miles away from the ones calculated from errors, annotated by a translation examiner in the same text. The discrepancies were particularly noticeable in the accuracy setting.</p>
+
+<p>This made me reconsider the experiment and respect the arguments in Callison-Burch et al. (2007) and Guzmán et al. (2019) who argue for syncretic quality annotation.</p>
+
+<p>The third round of calibration in the setting which does not single out traditional quality aspects (fluency, accuracy) but asks the annotator to indicate whether a Russian segment is an adequate translation of the English segment, given the context, returns reasonable inter-rater agreement and the (expected) better match with the error-based scores, which have the role of gold standard in this annotation experiment.</p>
+
+<p>Interestingly, based on the limited data from the calibration sessions, linguists tent to be more critical in their estimates, there is also less agreement between the raters with no prior translation education. On the other hand, translates tend to agree more and are more forgiving towards the work of their fellows in the profession.</p>
+
+<p><strong>(4) Task.</strong> The experiment is set up on the QuestionPro platform which importantly offers a slider question and unlimited number of surveys and participants for free, which suits our needs. While the annotation takes place on a sentence level, the task page contains a complete text to provide access to cohesion and textuality issues in translations.</p>
+
+<p>After the lessons learnt from several calibration sessions, we issued the first batch of 40 text pairs (922 sentence pairs) for annotation. The task is now formulated as “Read the source text. Use the slider to indicate how much you agree that the text in bold is an adequate translation of the original English sentence, given the context.”</p>
+
+<p>We use a 100-point slider in accordance with the DA method of benchmarking translation quality in MT. It is supposed to alleviate the pressure to choose between 5 or 7 discreet bins in a traditional Likert scale setup. We also repeatedly urged the annotators to pay attention to the textual aspects of quality that can only be noticed in context, but have to be annotated on the sentence level (see Voita et al. 2019).</p>
+
+<p>Naturally, I would be happy to get any feedback or ideas how to adjust the experiment setting to return the most reliable results.</p>
+
+<p>Thanks for listening, anyway :)</p>
+
+<p><em>Maria Kunilovskaya</em></p>
+
+          </p>
+
+          
+        </div>
+      </section>
+
+    </div>
+
+    
+    <!-- Contact -->
+<section id="contact">
+	<div class="inner">
+    <section>
+    <h2>CONTACT DETAILS</h2>
+        <hr />
+      <section>
+        <div class="contact-method">
+          <span class="icon alt fa-envelope"></span>
+          <a href="mailto:riilp@wlv.ac.uk">riilp@wlv.ac.uk</a>
+        </div>
+      </section>
+      <section>
+        <div class="contact-method">
+          <span class="icon alt fa-phone"></span>
+          <a href="tel:+44 1902 321630">+44 1902 321630</a>
+        </div>
+      </section>
+      <section>
+        <ul class="icons">
+          
+          
+          <li>
+            <a href="https://twitter.com/RGCL_WLV" class="icon alt fa-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+              <span class="label">Twitter</span>
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="https://github.com/wlv-rgcl" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+              <span class="label">GitHub</span>
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="https://www.facebook.com/riilp.Wolverhampton" class="icon alt fa-facebook" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+              <span class="label">Facebook</span>
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="https://www.instagram.com/wlvuni" class="icon alt fa-instagram" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+              <span class="label">Instagram</span>
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/feeds/news.atom" class="icon alt fa-rss" target="_blank" rel="noopener noreferrer" aria-label="rss">
+              <span class="label">rss</span>
+            </a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </ul>
+      </section>
+      <ul class="actions">
+        <li><a href="https://www.wlv.ac.uk/research/institutes-and-centres/riilp---research-institute-of-information-and-language-processing/research-group-in-computational-linguistics/" class="button special" target='_blank'>Our University webpage</a></li>
+      </ul>
+    </section>
+    <section class="split">
+      <section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<span>
+          RGCL<br />
+          University of Wolverhampton<br /> 
+					
+					    Wulfruna Street<br />
+					
+					
+					    Wolverhampton,
+					
+					
+					
+					    WV1 1LY<br />
+					
+					
+					    United Kingdom<br />
+					
+          <br />
+          </span>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2423.9801134139952!2d-2.1296718838718376!3d52.588052779827144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487083cb0f37dc97%3A0x9cb8e3cc0509a0d0!2sUniversity%20of%20Wolverhampton!5e0!3m2!1sen!2suk!4v1642496540211!5m2!1sen!2suk" width="300" height="260" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+      </section>
+		</section>
+	</div>
+</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="contact-method">
+			<ul class="copyright">
+        <li>&copy; <script>document.write(new Date().getFullYear())</script> RGCL | University of Wolverhampton</li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<!-- <li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li> -->
+			</ul>
+		</div>
+	</footer>
+
+</div>
+
+<!-- Scripts -->
+	<script src="https://rgcl.wlv.ac.uk/assets/js/jquery.min.js"></script>
+	<script src="https://rgcl.wlv.ac.uk/assets/js/jquery.scrolly.min.js"></script>
+	<script src="https://rgcl.wlv.ac.uk/assets/js/jquery.scrollex.min.js"></script>
+	<script src="https://rgcl.wlv.ac.uk/assets/js/skel.min.js"></script>
+	<script src="https://rgcl.wlv.ac.uk/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="https://rgcl.wlv.ac.uk/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="https://rgcl.wlv.ac.uk/assets/js/main.js"></script>
+
+    
+
+  </body>
+
+</html>
